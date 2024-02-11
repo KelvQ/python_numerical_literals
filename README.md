@@ -18,3 +18,23 @@ Tan Nguyen (Rlate)
 - Indicates if the input is invalid either through not matching requirements for specific integer types or by not ending on an accept state in the NFA.
 - Indicates if the input is valid by matching requirements for the integer type and ending on an accept state in the NFA.
 - Avoids running inputs that are not in decimal, octal, hexadecimal, or floating point.
+
+## NFA's
+
+**Decimal NFA**
+
+<img src="https://github.com/KelvQ/python_numerical_literals/blob/main/nfa/decimalNFAPicture.jpg" width="50%" height="50%">
+
+**Octal NFA**
+
+<img src="https://github.com/KelvQ/python_numerical_literals/blob/main/nfa/octalNFAPicture.jpg" width="50%" height="50%">
+
+**Hexadecimal NFA**
+
+<img src="https://github.com/KelvQ/python_numerical_literals/blob/main/nfa/hexNFAPicture.jpg" width="50%" height="50%">
+
+**Floating Point NFA**
+
+<img src="https://github.com/KelvQ/python_numerical_literals/blob/main/nfa/floatingpointNFAPicture.jpg" width="50%" height="50%">
+
+
